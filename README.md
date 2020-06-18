@@ -1,5 +1,7 @@
 # PROJECT 01 - TINY CHICKEN DRAGONS ZOO
 
+[Live demo on Netlify](https://compassionate-jang-e42caf.netlify.app/)
+
 ## BRIEF
 **Develop a front-end web app/game of a zoo for tiny chicken dragons (they are small, have feathers, and are flightless).**
 
@@ -19,3 +21,7 @@ No dragon can be without a cage.
 [Elm (TEA)](https://guide.elm-lang.org/architecture/)
 
 [Elm-ui](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/)
+
+[Elm Live](https://www.elm-live.com/)
+
+[Netlify](https://www.netlify.com/)
