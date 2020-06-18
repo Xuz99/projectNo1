@@ -1,9 +1,9 @@
-#PROJECT 01 - TINY CHICKEN DRAGONS ZOO
+# PROJECT 01 - TINY CHICKEN DRAGONS ZOO
 
-##BRIEF
+## BRIEF
 **Develop a front-end web app/game of a zoo for tiny chicken dragons (they are small, have feathers, and are flightless).**
 
-###The user/player must be able to do these things:
+### The user/player must be able to do these things:
 - buy a dragon for £
 - place a dragon in a cage
 - move dragons between cages
@@ -15,7 +15,7 @@ There should be one type of cage to buy.
 There should be a maximum of 5 cages and 5 dragons.
 No dragon can be without a cage.
 
-##TECH
+## TECH
 [Elm (TEA)](https://guide.elm-lang.org/architecture/)
 
 [Elm-ui](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/)
